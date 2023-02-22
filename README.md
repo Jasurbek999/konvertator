@@ -1,0 +1,2 @@
+# konvertator
+ussd= uzs
